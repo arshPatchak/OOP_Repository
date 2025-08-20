@@ -13,3 +13,9 @@ I am a friendly and kind person who loves to learn new things. I enjoy spending 
 I am always ready to **listen, support**, and discover new skills that help me grow as a person.
 
 
+### Project Links
+- Midterm Task 
+
+
+
+
