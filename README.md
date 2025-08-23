@@ -2,7 +2,7 @@
 This repo will contain all my OOP projects in Python
 --
 ### 🌟 About Me
-<img src="" height="50"/>  
+<img src="images/profile.avif" height="50"/>  
 I am a friendly and kind person who loves to learn new things. I enjoy spending time with my family and friends. Meeting new people and making new friends brings me joy. 
 ---
 ### What I Believe In:
